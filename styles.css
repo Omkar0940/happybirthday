@@ -130,6 +130,12 @@ h1 {
     color: #ff1493;
     text-align: center;
 }
+h2 {
+    font-size: 1.5rem;
+    color:black;
+    text-align: center;
+}
+
 
 p {
     font-size: 1.3rem;

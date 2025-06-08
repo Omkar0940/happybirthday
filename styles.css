@@ -221,3 +221,13 @@ button:hover {
     50% { transform: translateY(-30px); }
     100% { transform: translateY(0); }
 }
+<style>
+.front {
+    background-image: url('https://raw.githubusercontent.com/Omkar0940/happybirthday/main/WhatsApp%20Image%202025-06-08%20at%2014.48.07_661bdbb9.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    border-radius: 15px;
+}
+</style>

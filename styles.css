@@ -15,7 +15,7 @@ body {
 }
 #for-you {
     display: inline-block;
-    background-color: #ff8800;
+    background-color: pink;
     color: white;
     padding: 10px 20px;
     border-radius: 10px;

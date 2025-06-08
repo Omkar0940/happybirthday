@@ -65,13 +65,6 @@ body {
 .front {
     background-color: #ffffff;
     z-index: 2;
-    
-   
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 20px;
-    border-radius: 15px;
 }
 
 

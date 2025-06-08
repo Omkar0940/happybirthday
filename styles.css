@@ -63,7 +63,7 @@ body {
 }
 
 .front {
-    background-color: #ffffff;
+    background-color: white;
     z-index: 2;
 
     background-image: url("hand.jpg"); 
